@@ -1,7 +1,8 @@
 ﻿namespace TestProject1;
 
-public class ClassRelationshipsTest
+public partial class ClassRelationshipsTest
 {
+
     [Fact]
     public void AddBook_IncreasesBookCount()
     {

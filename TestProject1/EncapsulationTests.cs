@@ -3,8 +3,9 @@ namespace TestProject1;
 using System;
 using Xunit;
 
-public class EncapsulationTests
+public partial class EncapsulationTests
 {
+
     [Fact]
     public void Deposit_IncreasesBalance()
     {

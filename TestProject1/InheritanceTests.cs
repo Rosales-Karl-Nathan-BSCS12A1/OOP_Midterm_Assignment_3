@@ -3,7 +3,7 @@ using Xunit;
 
 namespace TestProject1;
 
-public class InheritanceTests
+public partial class InheritanceTests
 {
     [Fact]
     public void CalculateInterest_AppliesHigherRate()
